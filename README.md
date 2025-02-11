@@ -4,4 +4,5 @@ Scanning electron microscopy (SEM) is a high-resolution imaging technique with s
 ![Figure 5](https://github.com/user-attachments/assets/7482bfb3-94a1-420e-9859-893b073e613d)
 
 ---
-Lee, Woojin, et al. "Robust autofocusing for scanning electron microscopy based on a dual deep learning network." Scientific reports 11.1 (2021): 20933.
+
+[Lee, Woojin, et al. "Robust autofocusing for scanning electron microscopy based on a dual deep learning network." Scientific reports 11.1 (2021): 20933.](https://www.nature.com/articles/s41598-021-00412-5)
